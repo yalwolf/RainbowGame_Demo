@@ -1,4 +1,4 @@
 Rainbow:你好，游玩者;
 Rainbow:本游戏的演示Demo，到这里就结束了;
 Rainbow:想知道后事如何，请等至4月1日，正式版的发布吧！;
-:end;
+end;
