@@ -1,0 +1,4 @@
+:你好！欢迎来到RainbowGame 演示Demo;
+:希望你能喜欢本游戏！;
+:那就开始吧！;
+changeScene:1.txt;

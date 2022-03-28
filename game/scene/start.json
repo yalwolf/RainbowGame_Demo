@@ -1,0 +1,1 @@
+[{"type":"dialog","speaker":"","content":"你好！欢迎来到RainbowGame 演示Demo","vocal":"","ignoreSpeaker":true},{"type":"dialog","speaker":"","content":"希望你能喜欢本游戏！","vocal":"","ignoreSpeaker":true},{"type":"dialog","speaker":"","content":"那就开始吧！","vocal":"","ignoreSpeaker":true},{"type":"changeScene","newScene":"1.txt"}]

@@ -1,0 +1,5 @@
+Game_name:RainbowGames Demo;
+Game_key:114514LTS;
+Title_img:0000.png;
+Title_bgm:.gitkeep;
+Loading_img:0000.png;
